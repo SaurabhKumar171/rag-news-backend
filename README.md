@@ -81,7 +81,6 @@ pip install -r requirements.txt
 ```env
 JINA_API_KEY=
 GEMINI_API_KEY=
-RSS_FEEDS=http://feeds.bbci.co.uk/news/rss.xml,https://rss.cnn.com/rss/edition.rss
 ```
 
 ---
@@ -95,8 +94,6 @@ npm install
 `.env` file:
 ```env
 REDIS_HOST=localhost
-REDIS_PORT=6379
-SESSION_TTL=86400
 ```
 
 ---
